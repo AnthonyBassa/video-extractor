@@ -1,4 +1,4 @@
-# video-extractor
+# Description
 Script for extracting a segment from a video/audio using potplayer and FFmpeg.
 
 ## How to
